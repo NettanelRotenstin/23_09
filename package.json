@@ -1,0 +1,19 @@
+{
+  "name": "23_09",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "uuid": "^10.0.0"
+  }
+}
